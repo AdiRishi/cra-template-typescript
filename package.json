@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-arishi-typescript",
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "A slightly augmented template for CRA typescript development.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdiRishi/cra-template-typescript"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/AdiRishi/cra-template-typescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
