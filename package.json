@@ -7,7 +7,7 @@
     "template",
     "typescript"
   ],
-  "description": "A slightly augmented template for CRA typescript development.",
+  "description": "A fork of CRA's Typescript template with helpful tools for the professional developer.",
   "repository": {
     "type": "git",
     "url": "https://github.com/AdiRishi/cra-template-typescript"
